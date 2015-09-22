@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-es6-template",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "es6-template support for JSTransformers",
   "keywords": [
     "jstransformer",
