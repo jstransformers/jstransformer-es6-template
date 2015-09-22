@@ -1,0 +1,28 @@
+{
+  "name": "jstransformer-es6-template",
+  "version": "0.0.0",
+  "description": "es6-template support for JSTransformers",
+  "keywords": [
+    "jstransformer",
+    "es6-template",
+    "template",
+    "engine",
+    "es6"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": "tunnckoCore/jstransformer-es6-template",
+  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
+  "license": "MIT",
+  "dependencies": {
+    "es6-template": "^1.0.0"
+  }
+}
