@@ -30,7 +30,7 @@ es6template.render('Hello ${place} and ${user.name}!', locals).body
 
 
 ## Contributing
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/jstransformer-es6-template/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/jstransformers/jstransformer-es6-template/issues/new).
 
 
 ## License
@@ -43,13 +43,13 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 [license-url]: ./LICENSE
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg
 
-[travis-url]: https://travis-ci.org/tunnckoCore/jstransformer-es6-template
-[travis-img]: https://img.shields.io/travis/tunnckoCore/jstransformer-es6-template.svg
+[travis-url]: https://travis-ci.org/jstransformers/jstransformer-es6-template
+[travis-img]: https://img.shields.io/travis/jstransformers/jstransformer-es6-template.svg
 
-[coveralls-url]: https://coveralls.io/r/tunnckoCore/jstransformer-es6-template
-[coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/jstransformer-es6-template.svg
+[coveralls-url]: https://coveralls.io/r/jstransformers/jstransformer-es6-template
+[coveralls-img]: https://img.shields.io/coveralls/jstransformers/jstransformer-es6-template.svg
 
-[david-url]: https://david-dm.org/tunnckoCore/jstransformer-es6-template
-[david-img]: https://img.shields.io/david/tunnckoCore/jstransformer-es6-template.svg
+[david-url]: https://david-dm.org/jstransformers/jstransformer-es6-template
+[david-img]: https://img.shields.io/david/jstransformers/jstransformer-es6-template.svg
 
 [jstransformers-url]: http://github.com/jstransformers

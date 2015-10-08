@@ -19,7 +19,7 @@
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer"
   },
-  "repository": "tunnckoCore/jstransformer-es6-template",
+  "repository": "jstransformers/jstransformer-es6-template",
   "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
   "license": "MIT",
   "dependencies": {
