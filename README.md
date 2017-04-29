@@ -1,5 +1,7 @@
 # jstransformer-es6-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-es6-template.svg)](https://greenkeeper.io/)
+
 [es6-template](https://github.com/tunnckoCore/es6-template) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-es6-template/master.svg)](https://travis-ci.org/jstransformers/jstransformer-es6-template)
