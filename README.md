@@ -5,6 +5,7 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-es6-template/master.svg)](https://travis-ci.org/jstransformers/jstransformer-es6-template)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-es6-template/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-es6-template)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-es6-template/master.svg)](http://david-dm.org/jstransformers/jstransformer-es6-template)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-es6-template.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-es6-template.svg)](https://www.npmjs.org/package/jstransformer-es6-template)
 
 ## Installation
