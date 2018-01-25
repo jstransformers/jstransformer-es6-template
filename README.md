@@ -15,7 +15,6 @@ npm install jstransformer-es6-template
 ```
 
 ## API
-> For more use-cases see the **tests** in [test folder](./test) or see the [JSTransformer API](http://github.com/jstransformers/jstransformer#api) for more details.
 
 ```js
 var es6template = require('jstransformer')(require('jstransformer-es6-template'));
