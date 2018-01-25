@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.0: 2018-01-25
+## v1.0.2: 2018-01-25
 
 - Update Boilerplate
 
